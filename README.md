@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sukhdev Singh.
 - 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently learning Bug Bounty.
+- 🌱 I’m currently learning Bug Bounty Hunting.
